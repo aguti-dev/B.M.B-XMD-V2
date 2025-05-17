@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "BMB-XMD~zFxjiZjK#JR1rmH8oFN5HmGnGBeD38PgIx_F0Ycs5O2s-mLr27kU",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -27,7 +27,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ewjggk.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "B.M.B-XMD-V2",
+BOT_NAME: process.env.BOT_NAME || "aguti-dev",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "B.M.B-XMD-V2",
 // type sticker pack name 
@@ -37,9 +37,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255767862457",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "233201555801",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ʙ.ᴍ.ʙ-xᴍᴅ-ᴠ2",
+OWNER_NAME: process.env.OWNER_NAME || "aguti-dev",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© powered by ʙ.ᴍ.ʙ-xᴍᴅ-ᴠ2*",
 // add bot owner name    
